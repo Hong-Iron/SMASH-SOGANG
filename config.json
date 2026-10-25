@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "다산관": {
+      "style": "brick",
+      "wall": "#b0624a",
+      "glass": "#3a4148",
+      "frame": "#c9c4bb"
+    },
+    "김대건관": {
+      "style": "brick",
+      "wall": "#a9573f",
+      "glass": "#3d4650",
+      "frame": "#e6e2da"
+    },
+    "체육관": {
+      "style": "brick",
+      "wall": "#9a4a38",
+      "glass": "#3e4e52",
+      "frame": "#8b8f8f"
+    },
+    "로욜라 도서관 1관": {
+      "style": "brick",
+      "wall": "#8c6a4f",
+      "glass": "#3a4246",
+      "frame": "#e8e6e0"
+    },
+    "성이냐시오관": {
+      "style": "brick",
+      "wall": "#9b4a3a",
+      "glass": "#3e5a66",
+      "frame": "#d0cdc6"
+    },
+    "리치과학관": {
+      "style": "glass",
+      "wall": "#b9bcbc",
+      "glass": "#4f7f86",
+      "frame": "#9aa4a6"
+    },
+    "하비에르관": {
+      "style": "brick",
+      "wall": "#a85a40",
+      "glass": "#384650",
+      "frame": "#d8d8d4"
+    },
+    "게페르트 남덕우 경제관": {
+      "style": "concrete",
+      "wall": "#6f7275",
+      "glass": "#3a4248",
+      "frame": "#9a9c9e"
+    },
+    "떼이야르관": {
+      "style": "glass",
+      "wall": "#e6e8ea",
+      "glass": "#3f86a6",
+      "frame": "#6b7680"
+    },
+    "본관": {
+      "style": "concrete",
+      "wall": "#cfc8b8",
+      "glass": "#3a4246",
+      "frame": "#a8a294"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
