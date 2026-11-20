@@ -1,0 +1,34 @@
+{
+ "region": "서울 마포구 신수동",
+ "nameEn": "Sogang University",
+ "added": "2026-10-16",
+ "rank": 80,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HONGIK",
+   "campus": "홍익대학교 서울캠퍼스",
+   "km": 1.4
+  },
+  {
+   "code": "EWHA",
+   "campus": "이화여자대학교",
+   "km": 1.4
+  },
+  {
+   "code": "CHUGYE",
+   "campus": "추계예술대학교",
+   "km": 1.6
+  },
+  {
+   "code": "YONSEI",
+   "campus": "연세대학교 신촌캠퍼스",
+   "km": 1.7
+  },
+  {
+   "code": "SOOKMYUNG",
+   "campus": "숙명여자대학교",
+   "km": 2.2
+  }
+ ]
+}
